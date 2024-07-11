@@ -1,12 +1,19 @@
 h1{
-    background-color: cadetblue;
+    background-color: wheat;
     padding: 5px;
     border: 10px;
+    margin: 10px;
+    text-align: center;
     
 }
         div{
-            color: darkcyan;
-            background-color: blueviolet;
+            color: rgb(219, 235, 235);
+            background-color: rgb(20, 18, 21);
             margin: 10px;
 
         }
+                p{
+                    color: rgb(48, 69, 28);
+                    background-color: rgb(220, 228, 243);
+                    text-align: center;
+                }
